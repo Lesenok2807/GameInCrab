@@ -1,0 +1,15 @@
+body {
+    background: black;
+}
+canvas {
+    width: 100%;    
+    border: 5px solid rgb(88, 84, 84);
+}
+
+h1 {    
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
